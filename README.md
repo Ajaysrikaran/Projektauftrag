@@ -1,5 +1,4 @@
-# Projektauftrag
-Arbeitsauftrag für Herr Mock
+
 
 # Aufgabenstellung
 Der Auftrag besteht darin, eine Hypothese zu einem Thema aufzustellen, Daten zu suchen und diese mit Python in einem Diagramm darzustellen. 
