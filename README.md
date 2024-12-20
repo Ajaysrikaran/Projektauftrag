@@ -1,20 +1,20 @@
 # Projektauftrag
 Arbeitsauftrag für Herr Mock
 
-Hypothese: Der Durchschnittslohn der Männer wird immer höher sein als der, der Frauen.
-
-Darstellung: Mehrere Säulendiagramme der einzelnen Jahre. Sie beinhalten Säulen vom Männerlohn, Frauenlohn und der Differenz. Zusammengefasst werden sie in einem Kurvendiagramm über Zeit.
-<img width="631" alt="DiagramIdee" src="https://github.com/user-attachments/assets/327a9f41-6b03-4bae-aa81-762690e004d2">
-
-Quelle :https://www.bfs.admin.ch/
-
 # Aufgabenstellung
 Der Auftrag besteht darin, eine Hypothese zu einem Thema aufzustellen, Daten zu suchen und diese mit Python in einem Diagramm darzustellen. 
 Anschliessend sollen wir  die Hypothese Verifizieren / Falsifizieren und die Daten Zusammenfassen.
 
 # Wahl des Themas und Hypothese
 Unsere Wahl viel auf das Thema: Lohnunterschiede zwischen den Geschlechtern. Unsere Vermutung war, dass Männer immer mehr verdienen würden als Frauen.
-Die Quelle  für die Daten ist das Schweizerische Amt für Statistiken. 
+Die Quelle  für die Daten ist das Schweizerische Amt für Statistiken.
+
+# Skizze Planung
+Darstellung: Mehrere Säulendiagramme der einzelnen Jahre. Sie beinhalten Säulen vom Männerlohn, Frauenlohn und der Differenz. Zusammengefasst werden sie in einem Kurvendiagramm über Zeit.
+<img width="631" alt="DiagramIdee" src="https://github.com/user-attachments/assets/327a9f41-6b03-4bae-aa81-762690e004d2">
+
+Quelle :https://www.bfs.admin.ch/
+
 
 # Ausführung des Auftrags
 Der liebe Herr Mock hat auf dem Laptop von Ajay in CMD eine Virtuelle Umgebung gestartet. Dann haben wir Youtube Videos geschaut und so erstmals die Balkendiagramme erstellt.
