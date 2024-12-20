@@ -7,7 +7,8 @@ Anschliessend sollen wir  die Hypothese Verifizieren / Falsifizieren und die Dat
 
 # Wahl des Themas und Hypothese
 Unsere Wahl viel auf das Thema: Lohnunterschiede zwischen den Geschlechtern. Unsere Vermutung war, dass Männer immer mehr verdienen würden als Frauen.
-Die Quelle  für die Daten ist das Schweizerische Amt für Statistiken.
+Wir haben das Thema gewählt, weil wir es als spannend empfinden und wir auch mehr genauer darüber erfahren wollten.
+Die Quelle  für die Daten ist das Schweizerische Amt für Statistiken siehe ganz unten.
 
 # Skizze Planung
 Darstellung: Mehrere Säulendiagramme der einzelnen Jahre. Sie beinhalten Säulen vom Männerlohn, Frauenlohn und der Differenz. Zusammengefasst werden sie in einem Kurvendiagramm über Zeit.
