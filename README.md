@@ -24,6 +24,7 @@ Unser Hauptproblem war, dass wir eine super Idee hatten mit dem Lohnunterschied 
 
 # Reflexion
 Anhand der Daten können wir erkennen dass unsere Hypothese "Männer verdienen immer mehr als Frauen definitiv verifiziert wurde, da die Differenz von 2010 1031 CHF betrug und 2022 1181 CHF. Es steig nich allzu stark an, ist aber konstant, weil die Differenz 2014 1082 CHF und 2018 1132 CHF Betrugen. --> Differenz steigt alle vier Jahre um ca. 50 Franken.
+
 Wir haben beim Auftrag einiges lernen können. Nicht nur wie man auf Python Diagramme erstellt, sondern auch, wie man es überhaupt einrichtet. Ebenfalls lernten wir auch, wie man Github richtig bedient. Mitnehmen können wir definitiv, dass wir die Zeit im Unterricht besser nutzen sollen. Ich bin nämlich überzeugt, dass wir alles im Unterricht geschafft hätten und keine Freizeit dafür investiert hätten müssen.
 
 
