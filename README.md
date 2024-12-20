@@ -17,7 +17,7 @@ Darstellung: Mehrere Säulendiagramme der einzelnen Jahre. Sie beinhalten Säule
 
 
 # Ausführung des Auftrags
-Der liebe Herr Mock hat auf dem Laptop von Ajay in CMD eine Virtuelle Umgebung gestartet. Dann haben wir Youtube Videos geschaut und so erstmals die Balkendiagramme erstellt. Gleichzeitig fingen wir an die Dokumentation auf Github zu schreiben. Den Grossteil des Auftrags wurde ausserhalb des PRWR Unterrichts gemacht, unter anderem, weil der Unterricht mit dem Herrn Mock zu amüsant war, um sich zu konzentrieren.
+Der liebe Herr Mock hat auf dem Laptop von Ajay in CMD eine Virtuelle Umgebung gestartet. Dann haben wir Youtube Videos geschaut und so erstmals die Balkendiagramme erstellt. Gleichzeitig fingen wir an die Dokumentation auf Github zu schreiben. Der Grossteil des Auftrags wurde ausserhalb des PRWR Unterrichts gemacht, unter anderem, weil der Unterricht mit dem Herrn Mock zu amüsant war, um sich zu konzentrieren.
 
 ## Probleme und Lösungen
 Unser Hauptproblem war, dass wir eine super Idee hatten mit dem Lohnunterschied über Zeit. Wir fanden aber keine Quelle, die den Verlauf vom Lohn Schweizern und Schweizerinnen über einen Sinnvollen Zeitraum aufzeigte. Deswegen entschieden Wir uns dazu, erstmals mehrere Diagramme mit gleichem Inhalt zu gestalten und später die richtigen Daten einzufügen. Da sich der Lohn nicht so extrem schnell ändert, müssten wir auch im Nachhinein nicht allzu viel an den verschiedenen Diagrammen anpassen. Die Datenquelle, der wir vertrauen, hatte nur Daten zwischen 2010 und 2022, weshalb ich realtiv sicher behaupten kann, dass wir das unspektakulärste Kurvendiagramm erschufen (siehe bei Resultaten).
