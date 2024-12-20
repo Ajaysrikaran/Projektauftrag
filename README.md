@@ -13,7 +13,7 @@ Die Quelle  für die Daten ist das Schweizerische Amt für Statistiken.
 Darstellung: Mehrere Säulendiagramme der einzelnen Jahre. Sie beinhalten Säulen vom Männerlohn, Frauenlohn und der Differenz. Zusammengefasst werden sie in einem Kurvendiagramm über Zeit.
 <img width="631" alt="DiagramIdee" src="https://github.com/user-attachments/assets/327a9f41-6b03-4bae-aa81-762690e004d2">
 
-Quelle :https://www.bfs.admin.ch/
+
 
 
 # Ausführung des Auftrags
@@ -23,3 +23,13 @@ Der liebe Herr Mock hat auf dem Laptop von Ajay in CMD eine Virtuelle Umgebung g
 Unser Hauptproblem war, dass wir eine super Idee hatten mit dem Lohnunterschied über Zeit. Wir fanden aber keine Quelle, die den Verlauf vom Lohn Schweizern und Schweizerinnen über einen Sinnvollen Zeitraum aufzeigte. Deswegen entschieden Wir uns dazu, erstmals mehrere Diagramme mit gleichem Inhalt zu gestalten und später die richtigen Daten einzufügen. Da sich der lohn nicht so extrem schnell ändert, müssten wir auch im Nachhinein nicht allzu viel an den verschiedenen Diagrammen anpassen.
 
 # Reflexion
+
+
+
+
+
+
+
+
+Quelle :https://www.bfs.admin.ch/
+        [206-2203.pdf](https://github.com/user-attachments/files/18215409/206-2203.pdf)
