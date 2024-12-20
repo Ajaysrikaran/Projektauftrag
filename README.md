@@ -17,12 +17,13 @@ Darstellung: Mehrere Säulendiagramme der einzelnen Jahre. Sie beinhalten Säule
 
 
 # Ausführung des Auftrags
-Der liebe Herr Mock hat auf dem Laptop von Ajay in CMD eine Virtuelle Umgebung gestartet. Dann haben wir Youtube Videos geschaut und so erstmals die Balkendiagramme erstellt.
+Der liebe Herr Mock hat auf dem Laptop von Ajay in CMD eine Virtuelle Umgebung gestartet. Dann haben wir Youtube Videos geschaut und so erstmals die Balkendiagramme erstellt. Gleichzeitig fingen wir an die Dokumentation auf Github zu schreiben. Den Grossteil des Auftrags wurde ausserhalb des PRWR Unterrichts gemacht, unter Anderem weil der Unterricht mit dem Herrn Moch zu amüsant war, um sich zu konzentrieren.
 
 ## Probleme und Lösungen
-Unser Hauptproblem war, dass wir eine super Idee hatten mit dem Lohnunterschied über Zeit. Wir fanden aber keine Quelle, die den Verlauf vom Lohn Schweizern und Schweizerinnen über einen Sinnvollen Zeitraum aufzeigte. Deswegen entschieden Wir uns dazu, erstmals mehrere Diagramme mit gleichem Inhalt zu gestalten und später die richtigen Daten einzufügen. Da sich der lohn nicht so extrem schnell ändert, müssten wir auch im Nachhinein nicht allzu viel an den verschiedenen Diagrammen anpassen.
+Unser Hauptproblem war, dass wir eine super Idee hatten mit dem Lohnunterschied über Zeit. Wir fanden aber keine Quelle, die den Verlauf vom Lohn Schweizern und Schweizerinnen über einen Sinnvollen Zeitraum aufzeigte. Deswegen entschieden Wir uns dazu, erstmals mehrere Diagramme mit gleichem Inhalt zu gestalten und später die richtigen Daten einzufügen. Da sich der lohn nicht so extrem schnell ändert, müssten wir auch im Nachhinein nicht allzu viel an den verschiedenen Diagrammen anpassen. Die Datenquelle, der wir vertrauen, hatte nur Daten zwischen 2010 und 2022, weshalb ich realtiv sicher behaupten kann, dass wir das unspektakulärste Kurvendiagramm erschufen.
 
 # Reflexion
+Wir haben beim Auftrag einiges lernen können. Nicht nur wie man auf Python Diagramme erstellt, sondern auch, wie man es überhaupt einrichtet. Ebenfalls lernten wir auch, wie man Github richtig bedient. Mitnehmen können wir definitiv, dass wir die Zeit im Unterricht besser nutzen sollen. Ich n^bin nähmlich überzeugt, dass wir alles im Unterricht geschafft hätten und keine Freizeit dafür investiert hätten müssen.
 
 
 
@@ -33,3 +34,6 @@ Unser Hauptproblem war, dass wir eine super Idee hatten mit dem Lohnunterschied 
 
 Quelle :https://www.bfs.admin.ch/
         [206-2203.pdf](https://github.com/user-attachments/files/18215409/206-2203.pdf)
+
+
+Ajay Srikaran und Sandro Reller 2024 KBW Büelrain
